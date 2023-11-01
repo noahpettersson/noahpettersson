@@ -2,8 +2,6 @@
 <h3 align="center">A passionate student at KTH Royal Institute of Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-- 🌱 I’m currently learning **Elixir and networking**
-
 - 📫 How to reach me **noahw.pettersson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
